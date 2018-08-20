@@ -1,0 +1,23 @@
+[33m5d0f6f4[m[33m ([m[1;36mHEAD -> [m[1;32mtitle-change[m[33m)[m changing title of html file
+[33m5922f01[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m updating
+[33m655fa82[m adding description
+[33m09cc802[m modify file
+[33m170b20f[m excluding log
+[33md30ad1e[m adding gitignore file
+[33m4cbd004[m adding hipster file
+[33m03c9968[m all
+[33mc2ff523[m delete
+[33m6a6b9aa[m deleting
+[33mbf52be7[m move back to 2
+[33m1bbcefa[m moving file to level 3
+[33maa91967[m renaming level 2
+[33m1cb422b[m renaming file
+[33m330cd0b[m adding several files recursively
+[33mede00a5[m more text
+[33mb063420[m adding new file
+[33m55cef9b[m adding more text
+[33mcbb205d[m my first commit
+[33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[33me73f914[m Adding Purpose section to README
+[33m34f563b[m Adding README file
+[33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
