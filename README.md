@@ -12,4 +12,4 @@ this is deployment section
 this is contribution from me and adding more text
 
 ### copyright section
-copyright notice
+copyright notice, alll is done
