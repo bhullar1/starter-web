@@ -8,3 +8,6 @@ this is purpose section
 this is deployment section
 ## How to contribute
 this is contribution from me
+
+### copyright section
+copyright notice
